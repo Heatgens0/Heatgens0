@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heatgens0
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & HTML
 - 💞️ I’m looking to collaborate on Minecraft
 - 📫 How to reach me Discord: EyeSaber
 
